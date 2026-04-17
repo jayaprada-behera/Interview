@@ -1,23 +1,42 @@
 # Interview
 **1. What is React and Why is it Popular?**
+
 **2.what is a single page application or Spa?**
+
 **3.what is jsx and how does it differ from HTML ?**
+
 **4.explain the difference between functional and class components ?**
+
 **5.what is the difference between a stateless and a stateful component in react?**
+
 **6.what are props in react and how are they used?**
+
 **7.what is the difference between State and props in react?**
+
 **8.what are control and uncontrolled components control components are used ?**
+
 **9.what is the purpose of the key attribute in react lists?**
+
 **10. what are fragments in react and why are they used?**
+
 **11.what is the virtual dom and how does react use it to improve performance ?**
+
 **12.what are react life cycle methods and when are they used?**
+
 **13.explain the use State and use effect hooks with examples ?**
+
 **14.what do you understand by props drilling?**
+
 **15.what is the context API and how is it used for State Management ?**
+
 **16.what are higher order components Give an example?**
+
 **17.explain the concept of reconciliation in react ?**
+
 **18.how do react portals work and when should they be used?**
+
 **19.how does react router handle navigation in a single page ?**
+
 **20.what is react strict mode and how does it help developers ?**
 
 
