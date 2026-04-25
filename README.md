@@ -43,9 +43,11 @@
 **1. What is React and Why is it Popular?**
 React's popularity stems from its component-based architecture that allows for reusable UI components.
 The virtual DOM minimizes direct DOM manipulations, significantly enhancing performance.
+
 **2.what is a single page application or Spa?**
 Spa a single page application is a type of web application that loads a single HTML page and then instead of reloading the whole page only updates the affected parts of
 the page according to the users's actions like only rendering the color change here from light blue to Pink this means it only contacts the server for the components in which you have added new features or have made certain changes. Now this process results in Faster load times better responsiveness and smoother user interactions however using Spas can become a challenge when it comes to search engine optimization because the application uses a single URL so it becomes harder for the search engines to crawl and index content effectively.
+
 **3.what is jsx and how does it differ from HTML ?**
 Jsx or JavaScript XML is a syntax extension for JavaScript that allows developers to write HTML like code directly into JavaScript files.
 
@@ -61,6 +63,7 @@ import React from 'react'
 }
 export default App
 --------------------
+
 **4.explain the difference between functional and class components ?**
  ## Functional Components vs Class Components (React)
 
@@ -76,6 +79,7 @@ export default App
 | State Updates |--> useState setter function ---||-- this.setState() |
 | Initial Nature |--> Originally stateless ---||-- Always supported state |
 | Current Preference |--> Preferred in modern React ---||-- Less commonly used today |
+
 **5.what is the difference between a stateless and a stateful component in react?**
 ## Stateless vs Stateful Components
 
